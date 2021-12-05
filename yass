@@ -6,7 +6,7 @@ end
 game:GetService("StarterGui"):SetCore("SendNotification", {
 	Title = "Free Roblox Scripts",
 	Text = "Be sure to visit freerobloxscripts.com for the best scripts scripts",
-	Duration = 69420,
+	Duration = 90000,
 	Callback = bindable,
 	Button1 = "Copy"
 })
